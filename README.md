@@ -9,12 +9,3 @@ One / Javascript Code GOLF (need deno to be started )
 ```bash
   deno task start
 ```
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
