@@ -1,3 +1,4 @@
+
 # Advent Code 2022
 
 My advent code solutions with one language by day (why i'm doing this...)
@@ -5,7 +6,4 @@ My advent code solutions with one language by day (why i'm doing this...)
 
 ## Days and technologies
 
-One / Javascript Code GOLF (need deno to be started )
-```bash
-  deno task start
-```
+ - [Day 1 / Javascript Code Golf](https://github.com/kmartin91/adventofcode22/blob/main/days/1/solution.js) 
